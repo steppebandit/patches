@@ -18,11 +18,14 @@
 
 ## Stats
 
-| Styles |  Value |
-| ------ | ------ |
-| Bold   | value  |
-
-#### Skills
+| Styles |  Value | Skills | Value | 
+| ------ | ------ | ------ | ------ |
+| BOLd | 3 | STRength | 3 |
+| CAReful | 3 | DEXterity | 3 |
+| CLEver | 3 | ENDurance | 3 |
+| FORceful | 3 | STUdy | 3 |
+| QUIet | 3 | COMmand | 3 |
+| SWIft | 3 | CRAft | 3 |
 
 ## Talents
 ## Splinters of Humanity
