@@ -49,3 +49,14 @@
 > text
 
 ## Equipment
+
+- Winged Spear
+- > - Winged Spear
+  >   - Req: 5 DEX
+  >   - 2H DEX Spear
+  >   - +1 Roll on Attacks using Careful; +1 Difficulty on Forceful rolls while wielding the weapon
+  >   - 4 Physical Damage
+  >   - "A long-hilted spear with a barbed point."
+- > Black Leather Gauntlets
+- Leather Armor
+- Black Leather Boots
