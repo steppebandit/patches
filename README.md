@@ -10,20 +10,39 @@
 ![https://static.zerochan.net/Patches.%28Dark.Souls%29.full.2137241.jpg]
 
 
-#### HP: 4 + END
+#### HP: 4 + END : 7
 
-#### Slots: STU/3 + COM/3 (rounded up) (for spells)
+#### Slots: STU/3 + COM/3 (rounded up) (for spells) : 3
 
 ## Stats
 
-| Styles |  \ | Skills | \ | Focuses | \ |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| BOLd | 3 | STRength | 3 | Dodging | 2 |
-| CAReful | 5 | DEXterity | 5 | Scouting | 2 |
-| CLEver | 5 | ENDurance | 3 |
+| Styles |  \ | Skills | \ | Focuses | \ | Items | \
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| BOLd | 3 | STRength | 3 | Dodging | 2 | Estus Flask | 2 fills | 
+| CAReful | 5 | DEXterity | 5 | Scouting | 2 | Firebomb | 3 bombs |
+| CLEver | 5 | ENDurance | 3 |  ------ | ------ | Scrolls of Felur | bunch of scrolls |
 | FORceful | 3 | STUdy | 5 |
 | QUIet | 4 | COMmand | 4 |
 | SWIft | 4 | CRAft | 4 |
+
+pranking ayanna 
+pranking ark 
+cum imi folosesc souls
+
+> Estus Flask
+	 > - Restores 4 HP
+	 > - 2 Fills
+	 > - Can be refilled at a bonfire
+	 > - "The bottle seems to be made out of an amber-like, somewhat greenish, glass. Its inside is filled with a glowing orange liquid."
+	 > - STU/COM 1: "It is, as if, one holds in their hand a liquid form of comfort that only a bonfire might provide to the undead."
+
+> Firebomb
+	> - Throwable
+	> - Deals 3 Fire Damage
+	> - STU/CRA 1: "A staple of peregrician armament."
+
+> Scrolls of Felur
+  > - idk failed roll xd
 
 ## Talents
 
