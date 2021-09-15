@@ -50,7 +50,7 @@
 	 >   
          > - idk failed roll xd
 
-> Pensula
+ Pensula, Cerneala
 
 ## Talents
 
