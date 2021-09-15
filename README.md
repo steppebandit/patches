@@ -3,7 +3,7 @@
 
 #### Covenant: Formerly Way of the white/ now no convenant
 
-#### Souls: 2
+#### Souls: 1
 
 #### Soul Memory: 1 , threshold 2
 
@@ -49,6 +49,8 @@
 > Scrolls of Felur
 	 >   
          > - idk failed roll xd
+
+> Pensula
 
 ## Talents
 
