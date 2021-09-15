@@ -66,8 +66,8 @@
 
 ## Creed
 
-> #### Disdain for the holy clergy
-> Due to his failed attempts at entering into the order of the holy knights of Carim/Peregric/Astora, Joseph carries a deep resentment for any order of knights that seem to have any semblance of holiness attached to him, and he is more than happy to play insidious pranks on them
+> ~~#### Disdain for the holy clergy
+> Due to his failed attempts at entering into the order of the holy knights of Carim/Peregric/Astora, Joseph carries a deep resentment for any order of knights that seem to have any semblance of holiness attached to him, and he is more than happy to play insidious pranks on them~~
 > #### Pranking
 > Joseph loves his own humour more than anything else, so he indulges in it with every chance he gets. He often tries to tell a sad joke that nobody understands in front of others, or, when wronged, will atempt to enact a a more sinister prank that often makes unfortunate victims.
 
