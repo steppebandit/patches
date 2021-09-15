@@ -3,9 +3,9 @@
 
 #### Covenant: Formerly Way of the white/ now no convenant
 
-#### Souls: 14
+#### Souls: 2
 
-#### Soul Memory:
+#### Soul Memory: 1 , threshold 2
 
 ![](https://static.zerochan.net/Patches.%28Dark.Souls%29.full.2137241.jpg)
 
@@ -19,8 +19,8 @@
 
 | Styles |  \ | Skills | \ | Focuses | \ | Items | \
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| BOLd | 3 | STRength | 3 | Dodging | 2 | Estus Flask | 2 fills | 
-| CAReful | 5 | DEXterity | 5 | Scouting | 2 | Firebomb | 3 bombs |
+| BOLd | 3 | STRength | 3 | Dodging | 3 | Estus Flask | 2 fills | 
+| CAReful | 5 | DEXterity | 6 | Scouting | 2 | Firebomb | 3 bombs |
 | CLEver | 5 | ENDurance | 3 |  ------ | ------ | Scrolls of Felur | bunch of scrolls |
 | FORceful | 3 | STUdy | 5 |
 | QUIet | 4 | COMmand | 4 |
