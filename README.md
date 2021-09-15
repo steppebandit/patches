@@ -33,10 +33,12 @@
 ## Splinters of Humanity
 
 > Trait: Sick sense of humour
+
 > Will hatch devious plans or pranks to play on other unsuspecting victims, often for his own amusement.
 > 
 
 > Trait : Forlorn
+
 > Joseph was abandoned by his close relatives and loved ones after failing to become a knight, and he carries the echo of his failure everywhere around him
 
 ## Creed
