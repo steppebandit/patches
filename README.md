@@ -27,19 +27,28 @@
 | SWIft | 4 | CRAft | 4 |
 
 > Estus Flask
+	 >   
 	 > - Restores 4 HP
+	 >   
 	 > - 2 Fills
+	 >   
 	 > - Can be refilled at a bonfire
+	 >   
 	 > - "The bottle seems to be made out of an amber-like, somewhat greenish, glass. Its inside is filled with a glowing orange liquid."
+	 >   
 	 > - STU/COM 1: "It is, as if, one holds in their hand a liquid form of comfort that only a bonfire might provide to the undead."
 
 > Firebomb
-	> - Throwable
-	> - Deals 3 Fire Damage
-	> - STU/CRA 1: "A staple of peregrician armament."
+	 >   
+	 > - Throwable
+	 >   
+	 > - Deals 3 Fire Damage
+	 >   
+	 > - STU/CRA 1: "A staple of peregrician armament."
 
 > Scrolls of Felur
-  > - idk failed roll xd
+	 >   
+         > - idk failed roll xd
 
 ## Talents
 
