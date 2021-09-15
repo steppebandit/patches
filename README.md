@@ -3,7 +3,7 @@
 
 #### Covenant: Formerly Way of the white/ now no convenant
 
-#### Souls:
+#### Souls: 14
 
 #### Soul Memory:
 
@@ -13,6 +13,7 @@
 #### HP: 4 + END : 7
 
 #### Slots: STU/3 + COM/3 (rounded up) (for spells) : 3
+
 
 ## Stats
 
@@ -24,10 +25,6 @@
 | FORceful | 3 | STUdy | 5 |
 | QUIet | 4 | COMmand | 4 |
 | SWIft | 4 | CRAft | 4 |
-
-pranking ayanna 
-pranking ark 
-cum imi folosesc souls
 
 > Estus Flask
 	 > - Restores 4 HP
@@ -51,10 +48,17 @@ cum imi folosesc souls
 
 ## Splinters of Humanity
 
-> Trait: Sick sense of humour
+> Trait: Prankster
 >
 > Will hatch devious plans or pranks to play on other unsuspecting victims, often for his own amusement.
 > 
+> Ever since Joseph was a small child his preffered method of comunicating with people would be to surprise them in some way, or to prank them in some way if they did him any harm. 
+> 
+> When he was a child, one of Joseph's revenge pranks was to have a kettle of hot water fall over another one his peers. In adulthood, one of the last pranks that got Joseph into trouble was when he decided to trip over another kettle over the head of the high priest of the Order of the White. 
+> 
+> Unbeknownst to him and to the Order, the kettle was filled with cursed water, a substance that would immediately turn anyone it touched into brittle stone.
+>
+> This unfortunate event is what led Joseph into being banished, and the entire ordeal was covered up by the Order.
 
 > Trait : Forlorn
 >
@@ -65,7 +69,7 @@ cum imi folosesc souls
 > #### Disdain for the holy clergy
 > Due to his failed attempts at entering into the order of the holy knights of Carim/Peregric/Astora, Joseph carries a deep resentment for any order of knights that seem to have any semblance of holiness attached to him, and he is more than happy to play insidious pranks on them
 > #### Pranking
-> de extrapolat
+> Joseph loves his own humour more than anything else, so he indulges in it with every chance he gets. He often tries to tell a sad joke that nobody understands in front of others, or, when wronged, will atempt to enact a a more sinister prank that often makes unfortunate victims.
 
 
 ## Equipment
@@ -85,10 +89,10 @@ cum imi folosesc souls
 - > Black Leather Boots
 - > Clown makeup
 - >   - Gain 1 reroll when doing social checks in which your affinity to being a prankster may be relevant.
-- >
+
 
 - What kingdom/state/city do you dwell from? What are some important aspects
-regarding it? You may cooperate as players and come from the same land.) 
+regarding it? (You may cooperate as players and come from the same land.) 
 - What and who were you before becoming undead?
 
 > Joseph used to be one of the many aspiring squired wanting to become a knight for the gods, however, due to him playing pranks on his fellow knights and squires, he was disgraged and banished to other places in the land. After his banishment, he decided to try his hand at the one thing he always enjoyed doing, playing sad pranks on other folks, with the occasional mercenary work. He now comes from the land of Fallen Astora, where he is a contract Jester.
