@@ -1,7 +1,7 @@
  
 # Joseph the Trustworthy
 
-#### Covenant:
+#### Covenant: Formerly Way of the white/ now no convenant
 
 #### Souls:
 
@@ -19,11 +19,11 @@
 | Styles |  \ | Skills | \ | Focuses | \ |
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | BOLd | 3 | STRength | 3 | Dodging | 2 |
-| CAReful | 3 | DEXterity | 3 | Scouting | 2 |
-| CLEver | 3 | ENDurance | 3 |
-| FORceful | 3 | STUdy | 3 |
-| QUIet | 3 | COMmand | 3 |
-| SWIft | 3 | CRAft | 3 |
+| CAReful | 5 | DEXterity | 5 | Scouting | 2 |
+| CLEver | 5 | ENDurance | 3 |
+| FORceful | 3 | STUdy | 5 |
+| QUIet | 4 | COMmand | 4 |
+| SWIft | 4 | CRAft | 4 |
 
 ## Talents
 
@@ -34,6 +34,8 @@
 
 > Trait: Sick sense of humour
 > Will hatch devious plans or pranks to play on other unsuspecting victims, often for his own amusement.
+> 
+
 > Trait : Forlorn
 > Joseph was abandoned by his close relatives and loved ones after failing to become a knight, and he carries the echo of his failure everywhere around him
 
@@ -41,6 +43,8 @@
 
 > #### Disdain for the holy clergy
 > Due to his failed attempts at entering into the order of the holy knights of Carim/Peregric/Astora, Joseph carries a deep resentment for any order of knights that seem to have any semblance of holiness attached to him, and he is more than happy to play insidious pranks on them
+> #### Pranking
+> de extrapolat
 
 
 ## Equipment
@@ -59,6 +63,8 @@
   >   - "Armor made of soft leather. Even lighter and more flexible than leather, almost."
 - > Black Leather Boots
 - > Clown makeup
+- >   - Gain 1 reroll when doing social checks in which your affinity to being a prankster may be relevant.
+- >
 
 - What kingdom/state/city do you dwell from? What are some important aspects
 regarding it? You may cooperate as players and come from the same land.) 
@@ -69,7 +75,8 @@ regarding it? You may cooperate as players and come from the same land.)
 - What was the reaction of your close ones when the dark sign showed?
 - What is the thing you grieve the most for leaving behind?
 
-> Joseph's loved ones already abandoned him when he was banished, and him becoming undead is only divine retribution for his silly deeds. Joseph misses his fellow squires and mentor knights, but above all, he misses the respect he had when his life was prim and proper. However, Joseph still believes that the divine still has a role for him to play. In his own words : "God gives his silliest battles, to his funniest clowns."
+> Joseph's loved ones already abandoned him when he was declared unfit for the order, and him becoming undead is only divine retribution for his silly deeds. Joseph misses his fellow squires and mentor knights, but above all, he misses the respect he had when his life was prim and proper. However, Joseph still believes that the divine still has a role for him to play. In his own words : "God gives his silliest battles, to his funniest clowns."
+> After he was a mercenary jester, he was found in Fallen Astora by the clerics of the Way of the White, and he was taken by force to the Forrest of Rememberance.
 
 - What do you fear forgetting the most about your life?
 - What is something you desperately want to forget, but it keeps coming back?
