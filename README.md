@@ -68,6 +68,7 @@
 
 > ~~#### Disdain for the holy clergy
 > Due to his failed attempts at entering into the order of the holy knights of Carim/Peregric/Astora, Joseph carries a deep resentment for any order of knights that seem to have any semblance of holiness attached to him, and he is more than happy to play insidious pranks on them~~
+
 > #### Pranking
 > Joseph loves his own humour more than anything else, so he indulges in it with every chance he gets. He often tries to tell a sad joke that nobody understands in front of others, or, when wronged, will atempt to enact a a more sinister prank that often makes unfortunate victims.
 
@@ -75,19 +76,33 @@
 ## Equipment
 
 - > Winged Spear
+  >   
   >   - Req: 5 DEX
+  >   
   >   - 2H DEX Spear
+  >   
   >   - +1 Roll on Attacks using Careful; +1 Difficulty on Forceful rolls while wielding the weapon
+  >   
   >   - 4 Physical Damage
+  >   
   >   - "A long-hilted spear with a barbed point."
+
 - > Black Leather Gauntlets
+  >   
   >   - Once per combat, gain 1 Reroll on Quiet checks.
+  >   
   >   - "These gloves made of smooth black leather are usually worn by those who hide in the shadows."
+
 - > Leather Armor
+  >   
   >   - When taking Physical Damage after failing a Swift or DEX Reaction, reduce that damage by 1.
+  >   
   >   - "Armor made of soft leather. Even lighter and more flexible than leather, almost."
+
 - > Black Leather Boots
+
 - > Clown makeup
+  >   
 - >   - Gain 1 reroll when doing social checks in which your affinity to being a prankster may be relevant.
 
 
