@@ -7,7 +7,7 @@
 
 #### Soul Memory:
 
-![https://static.zerochan.net/Patches.%28Dark.Souls%29.full.2137241.jpg]
+![](https://static.zerochan.net/Patches.%28Dark.Souls%29.full.2137241.jpg)
 
 
 #### HP: 4 + END : 7
