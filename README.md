@@ -30,7 +30,7 @@
 	 >   
 	 > - Restores 4 HP
 	 >   
-	 > - 2 Fills
+	 > - 2 Fills (1)
 	 >   
 	 > - Can be refilled at a bonfire
 	 >   
