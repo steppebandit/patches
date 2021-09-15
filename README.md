@@ -103,7 +103,7 @@
 
 - > Clown makeup
   >   
-- >   - Gain 1 reroll when doing social checks in which your affinity to being a prankster may be relevant.
+  >   - Gain 1 reroll when doing social checks in which your affinity to being a prankster may be relevant.
 
 
 - What kingdom/state/city do you dwell from? What are some important aspects
