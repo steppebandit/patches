@@ -19,10 +19,10 @@
 
 | Styles |  \ | Skills | \ | Focuses | \ | Items | \
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| BOLd | 3 | STRength | 3 | Dodging | 3 | Estus Flask | 2 fills | 
+| BOLd | 3 | STRength | 3 | Dodging | 3 | Estus Flask | 1 fills | 
 | CAReful | 5 | DEXterity | 6 | Scouting | 2 | Firebomb | 3 bombs |
-| CLEver | 5 | ENDurance | 3 |  ------ | ------ | Scrolls of Felur | bunch of scrolls |
-| FORceful | 3 | STUdy | 5 |
+| CLEver | 5 | ENDurance | 3 |  ------ | ------ | Paintbrush | ------ |
+| FORceful | 3 | STUdy | 5 |  ------ | ------ | 
 | QUIet | 4 | COMmand | 4 |
 | SWIft | 4 | CRAft | 4 |
 
