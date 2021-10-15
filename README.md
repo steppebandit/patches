@@ -3,7 +3,7 @@
 
 #### Covenant: Formerly Way of the white/ now no convenant
 
-#### Souls: 42
+#### Souls: 15
 
 #### Soul Memory: 1 , threshold 2
 
