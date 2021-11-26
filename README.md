@@ -5,7 +5,7 @@
 
 #### Souls: 15 // 27 points spent
 
-#### Soul Memory: 1 , threshold 2
+#### Soul Memory: 2 , threshold 2
 
 ![](https://static.zerochan.net/Patches.%28Dark.Souls%29.full.2137241.jpg)
 
@@ -74,6 +74,14 @@
 > Trait : Forlorn
 >
 > Joseph was abandoned by his close relatives and loved ones after failing to become a knight, and he carries the echo of his failure everywhere around him
+> 
+> Trait : Strategist
+> >
+> 
+>
+> Trait : Manipulative
+> > 
+> 
 
 ## Creed
 
