@@ -3,7 +3,7 @@
 
 #### Covenant: Formerly Way of the white/ now no convenant
 
-#### Souls: 15 // 27 points spent
+#### Souls: 30 // 27 points spent
 
 #### Soul Memory: 2 , threshold 2
 
