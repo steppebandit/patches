@@ -123,6 +123,12 @@
 - > Clown makeup
   >   
   >   - Gain 1 reroll when doing social checks in which your affinity to being a prankster may be relevant.
+  >   
+- > - Scimitar
+  > - 1H STR/DEX Sword
+  > - +1 Roll on Attacks/Parries using Swift DEX
+  > - 3 Physical Damage
+  > - "Small curved sword that excels in swift movements and consecutive attacks."
 
 
 - What kingdom/state/city do you dwell from? What are some important aspects
