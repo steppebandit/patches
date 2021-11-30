@@ -50,7 +50,8 @@
 	 >   
          > - idk failed roll xd
 
- Pensula, Cerneala
+ Pensula, Cerneala`
+a broken sword, ash and bones from desacrated bonfire
 
 ## Talents
 
