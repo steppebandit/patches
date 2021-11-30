@@ -22,7 +22,7 @@
 | BOLd | 3 | STRength | 3 | Dodging | 5 | Estus Flask | 1 fills | 
 | CAReful | 5 | DEXterity | 6 | Scouting | 2 | Firebomb | 3 bombs |
 | CLEver | 5 | ENDurance | 3 | Stabbing  | 3 | Paintbrush |  |
-| FORceful | 3 | STUdy | 5 |   |  | Incomplete Scroll of Fireball |
+| FORceful | 3 | STUdy | 5 |   |  | / |
 | QUIet | 4 | COMmand | 4 |  |  |  Soul of High Theocrat Peregric
 | SWIft | 4 | CRAft | 4 |  |  |  Soul of High Theocrat Astyrian
 
