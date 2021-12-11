@@ -80,8 +80,9 @@ a broken sword, ash and bones from desacrated bonfire
 > >
 > 
 >
-> Trait : Manipulative
-> > 
+> Trait : Pretender
+>
+> Josep
 > 
 
 ## Creed
@@ -132,11 +133,13 @@ a broken sword, ash and bones from desacrated bonfire
   > - "Small curved sword that excels in swift movements and consecutive attacks."
 
 
+## Backstory
+
 - What kingdom/state/city do you dwell from? What are some important aspects
 regarding it? (You may cooperate as players and come from the same land.) 
 - What and who were you before becoming undead?
 
-> Joseph used to be one of the many aspiring squired wanting to become a knight for the gods, however, due to him playing pranks on his fellow knights and squires, he was disgraged and banished to other places in the land. After his banishment, he decided to try his hand at the one thing he always enjoyed doing, playing sad pranks on other folks, with the occasional mercenary work. He now comes from the land of Fallen Astora, where he is a contract Jester.
+> Joseph used to be one of the many aspiring squires wanting to become a knight for the gods, however, due to him playing pranks on his fellow knights and squires, he was disgraged and banished to other places in the land. After his banishment, he decided to try his hand at the one thing he always enjoyed doing, playing sad pranks on other folks, with the occasional mercenary work. He now comes from the land of Fallen Astora, where he is a contract Jester.
 
 - What was the reaction of your close ones when the dark sign showed?
 - What is the thing you grieve the most for leaving behind?
@@ -148,3 +151,17 @@ regarding it? (You may cooperate as players and come from the same land.)
 - What is something you desperately want to forget, but it keeps coming back?
 
 > Joseph would like to forget that he was a knight, even if he knows that leaving his past self behind can only mean further wrath from the Divine. At the same time, the only things keeping him entertained are his devious pranks that he uses to entertain himself.
+
+Joseph's banishment from his former covenant came about when one of his pranks turned deadly. His plan was to trip a vase of water over a prominent leader of knights, unbeknowst to him, the vase was incidentally filled with a powdered form of a cursed mist, secreted by giant frogs from a distant land. The knight was instantly turned to stone, to the horror of all the other squires
+
+Much of Joseph's life afterwards was spent as a vagrant, even if he liked to tell himself he was a "contract jester". He migrated with various trade goods betweeen the cities and Vellusaro, where he felt somewhat welcome, despite his new appearence and status. 
+
+Since vagrant life was proving to be much like the life of a vagrant, as in, though, Joseph decided he would direct his fellow pranks on (some) of the caravans between the cities of Fallen Astora and the roving mountain bandits between the cities. He, of course, could not do it alone, without the aid of his accomplice, Dudley, the crow.
+
+Togheter, they robbed carravans from a distance, with clever traps and ploys. Sometimes they would feed the oxen herbs that would make them frenzied enough to flee from the caravan, acting as a distraction while the pair sneakily had their fill with the caravan. They would set roving marauder tents on fire to laugh at their expense or they would pose as roving marauders to lone travellers to extort them of (some of) their goods. Their favourite spot for robbing caravans was a dangerous cliff between the towns of Vellusaro and Tessera. A narrow path where caravans only had so much space to cross, where it was possible to tie a rope between the edges of the path to act as a trip-wire. A promising shortcut, if not so dangerous.
+
+There, he had the pleasure (or displeasure) of meeting one of the most renowed knights of the realm, an instrument of the gods so mighty that you would not be blamed for thinking they were a moving copper wall, Bedelia the defender. She had volunteered as a guard of one of the caravans for no other reason than to see what dangers would entertain her.
+
+Walking ahead of the caravan, she would easily spot Joseph and Dudley attempting to hide a tripwire in the dust for the caravan. The disgraced clown was using the rope as a scaffolding, while Dudley was hiding behind a cliff wall, holding the rope. Bedelia wanted nothing more than to conquer the silly bandits and punish them for their crimes, but after Joseph used the rope to pull himself from the cliffside, he managed to dodge Bedelia's tackle and trip her over the ridge of the cliffside. The pair eventually managed to run away, but they were cornered soon afterwards, Dudley being sent to prison, Jospeh being sent to the Forest of rememberance.
+
+## Bedelia the defender
