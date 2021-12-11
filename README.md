@@ -55,8 +55,8 @@ a broken sword, ash and bones from desacrated bonfire
 
 ## Talents
 
-> ## Adaptable
-> Once per turn, you may freely change any one Style or Skill.
+> ## Burst of skill
+> Once per scene, add +5 focus points to any roll
 
 ## Splinters of Humanity
 
@@ -77,12 +77,12 @@ a broken sword, ash and bones from desacrated bonfire
 > Joseph was abandoned by his close relatives and loved ones after failing to become a knight, and he carries the echo of his failure everywhere around him
 > 
 > Trait : Strategist
-> >
 > 
+> Righteous, Zealous, non-diplomat, impulsive, opportunist
 >
 > Trait : Pretender
 >
-> Josep
+> During his travels, 
 > 
 
 ## Creed
@@ -165,3 +165,5 @@ There, he had the pleasure (or displeasure) of meeting one of the most renowed k
 Walking ahead of the caravan, she would easily spot Joseph and Dudley attempting to hide a tripwire in the dust for the caravan. The disgraced clown was using the rope as a scaffolding, while Dudley was hiding behind a cliff wall, holding the rope. Bedelia wanted nothing more than to conquer the silly bandits and punish them for their crimes, but after Joseph used the rope to pull himself from the cliffside, he managed to dodge Bedelia's tackle and trip her over the ridge of the cliffside. The pair eventually managed to run away, but they were cornered soon afterwards, Dudley being sent to prison, Jospeh being sent to the Forest of rememberance.
 
 ## Bedelia the defender
+
+## Dudley the crow
