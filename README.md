@@ -3,7 +3,7 @@
 
 #### Covenant: Formerly Way of the white/ now no convenant
 
-#### Souls: 30 // 27 points spent
+#### Souls: 10 // 27 points spent
 
 #### Soul Memory: 2 , threshold 2
 
@@ -96,17 +96,25 @@ a broken sword, ash and bones from desacrated bonfire
 
 ## Equipment
 
-- > Winged Spear
-  >   
-  >   - Req: 5 DEX
-  >   
-  >   - 2H DEX Spear
-  >   
-  >   - +1 Roll on Attacks using Careful; +1 Difficulty on Forceful rolls while wielding the weapon
-  >   
-  >   - 4 Physical Damage
-  >   
-  >   - "A long-hilted spear with a barbed point."
+-  Winged Spear Req: 5 DEX 2H DEX Spear +1 Roll on Attacks using Careful; +1 Difficulty on Forceful rolls while wielding the weapon 4 Physical Damage "A long-hilted spear with a barbed point."
+
+- Unlocked Swordstaff
+        - Req: 6 STR and 6 DEX
+        - 2H Polearm; STR or DEX
+        - +1 Roll on Attacks/Parries; if a Swift Attack/Parry is made, instead roll 2 dice using STR and 2 using DEX
+        - 6 Physical Damage
+        - Made by combining Prelocked Longsword and Prelocked Longstaff; can be made back into those weapons
+
+- Prelocked Longstaff
+        - Req: 6 DEX
+        - _Staff + Soul of High Theocrat Astyrian_
+        - _Enchanted_
+        - 1H / 2H Staff; DEX
+        - +1 Roll on Reactions using this Weapon
+        - When using this Weapon for a Swift action/reaction, you gain 1 free reroll; 2 if 2 Handed
+        - Can be locked together with Prelocked Longsword to be used as Unlocked Swordstaff
+        - 4 Physical Damage if 1 Handed; 6 if 2 Handed
+        - "A priestly weapon made out of reinforced material of the utmost peregrician artisan hands. One of its ends contains a mechanism with a hook."
 
 - > Black Leather Gauntlets
   >   
