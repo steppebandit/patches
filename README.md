@@ -76,9 +76,9 @@ a broken sword, ash and bones from desacrated bonfire
 >
 > Joseph was abandoned by his close relatives and loved ones after failing to become a knight, and he carries the echo of his failure everywhere around him
 > 
-> Trait : Strategist
+> Trait : Fanatic
 > 
-> Righteous, Zealous, non-diplomat, impulsive, opportunist
+> Jsoeph has burst of emotional 
 >
 > Trait : Pretender
 >
