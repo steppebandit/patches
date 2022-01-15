@@ -84,7 +84,11 @@ a broken sword, ash and bones from desacrated bonfire
 >
 > During his travels, 
 > 
-
+> Trait: Infatuated by Art/ Loves to debate what is the purpose or what is Art
+> 
+> Joseph during his fight with the corrupted painted golem has often thougth about what is the purpose of art, and how it reflects upon his own pranks.
+> He now believes that art and what art can be completely subjective and is willing to defend/debate what it means.
+> Anything, even the lowliest of scenes can be art if left to interpretation.
 ## Creed
 
 > ~~#### Disdain for the holy clergy
