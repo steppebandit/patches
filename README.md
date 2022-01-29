@@ -101,6 +101,8 @@ a broken sword, ash and bones from desacrated bonfire
 
 ## Equipment
 
+ciocanul exilatilor
+
 -  Winged Spear Req: 5 DEX 2H DEX Spear +1 Roll on Attacks using Careful; +1 Difficulty on Forceful rolls while wielding the weapon 4 Physical Damage "A long-hilted spear with a barbed point."
 
 - Unlocked Swordstaff
