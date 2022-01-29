@@ -76,9 +76,10 @@ a broken sword, ash and bones from desacrated bonfire
 >
 > Joseph was abandoned by his close relatives and loved ones after failing to become a knight, and he carries the echo of his failure everywhere around him
 > 
-> Trait : Fanatic
+> Trait : Fanatic/Zealous/Impassionate
 > 
-> Jsoeph has burst of emotional 
+> Jsoeph has the tendency to react strongly to certain things that he believes to not be right, even if it means that logic is thrown out of the door. 
+> Those can be things like slavery, defending friends, holding people accountable, etc. This blind rage and passion was inherited from the forlorn warriors of Kaerletan.
 >
 > Trait : Pretender
 >
