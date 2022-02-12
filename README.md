@@ -183,4 +183,6 @@ Walking ahead of the caravan, she would easily spot Joseph and Dudley attempting
 
 Born under the star-sign that announces and celebrates great warriors, near the wild coastlands of a now forgotten fortress by the sea-side, known for powerful waves crashing into its rocky cliffs and for the massive warriors it spawns. Bedelia is a 2 metre and a half mountain of a warrior who has trained all her life to defend her fallen sea fortress. Now a mercenary, looking for challenges, she is clad head-to-toe in a tinted steel armour the colour of brass, with a mace and a shield. 
 
+Because of the simple nature of its religion, Bedelia identifies the most with Lloyd's clergy, however, she doesnt adhere to every one of its laws. She is highly skeptical of everything that she sees or hears, and is not afraid to call out garbage or hubris when she sees it.
+
 ## Dudley the crow
