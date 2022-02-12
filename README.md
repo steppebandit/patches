@@ -181,4 +181,6 @@ Walking ahead of the caravan, she would easily spot Joseph and Dudley attempting
 
 ## Bedelia the defender
 
+Born under the star-sign that announces and celebrates great warriors, near the wild coastlands of a now forgotten fortress by the sea-side, known for powerful waves crashing into its rocky cliffs and for the massive warriors it spawns. Bedelia is a 2 metre and a half mountain of a warrior who has trained all her life to defend her fallen sea fortress. Now a mercenary, looking for challenges, she is clad head-to-toe in a tinted steel armour the colour of brass, with a mace and a shield. 
+
 ## Dudley the crow
